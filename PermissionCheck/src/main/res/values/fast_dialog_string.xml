@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fast_dialog_error_network">Network Error</string>
+    <string name="fast_dialog_default_title">Bulletin</string>
+    <string name="fast_dialog_ok">OK</string>
+    <string name="fast_dialog_cancel">Cancel</string>
+    <string name="fast_dialog_clipboard">Copies the cutting board</string>
+    <string name="fast_dialog_loading">Loading&#8230;</string>
+    <string name="fast_dialog_success_title">Success</string>
+    <string name="fast_dialog_error_title">Error</string>
+    <string name="fast_dialog_warning_title">Warning</string>
+    <string name="fast_dialog_retry">Retry</string>
+    <string name="fast_dialog_force_update">Please Update</string>
+    <string name="fast_dialog_force_update_download_success">Download Success</string>
+    <string name="fast_dialog_update">Please update than run app\nThanks!</string>
+    <string name="fast_dialog_update_button">To download</string>
+    <string name="fast_dialog_title_exit">Exit</string>
+    <string name="fast_dialog_content_exit">Dear, please do not leave!</string>
+
+    <string name="fast_dialog_open_permission">Please apply, permission for this app</string>
+    <string name="fast_dialog_open_permission_content">those permission need granted!</string>
+</resources>

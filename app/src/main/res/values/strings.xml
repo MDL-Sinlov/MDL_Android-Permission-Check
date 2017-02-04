@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PermissionCheck</string>
+    <string name="toast_fast_request">please try again later!</string>
+    <string name="dialog_fast_request">please wait&#8230;then try later</string>
+    <string name="title_activity_request_permission">RequestPermissionActivity</string>
+    <string name="title_activity_check_permission">CheckPermissionActivity</string>
+    <string name="title_activity_float_window_permission">FloatWindowPermissionActivity</string>
+</resources>

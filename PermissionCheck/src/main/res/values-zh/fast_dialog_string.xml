@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fast_dialog_error_network">您的网络有问题</string>
+    <string name="fast_dialog_default_title">公告</string>
+    <string name="fast_dialog_ok">确认</string>
+    <string name="fast_dialog_clipboard">复制到剪切板</string>
+    <string name="fast_dialog_cancel">取消</string>
+    <string name="fast_dialog_loading">载入中&#8230;</string>
+    <string name="fast_dialog_success_title">成功</string>
+    <string name="fast_dialog_error_title">错误</string>
+    <string name="fast_dialog_warning_title">警告</string>
+    <string name="fast_dialog_retry">重试</string>
+    <string name="fast_dialog_force_update">请您更新</string>
+    <string name="fast_dialog_force_update_download_success">下载成功</string>
+    <string name="fast_dialog_update">请下载更新包安装后运行应用\n谢谢!</string>
+    <string name="fast_dialog_update_button">前往下载</string>
+    <string name="fast_dialog_title_exit">退出</string>
+    <string name="fast_dialog_content_exit">亲，您确定离开吗？</string>
+    
+    <string name="fast_dialog_open_permission">当前没有权限</string>
+    <string name="fast_dialog_open_permission_content">请打开设置勾选权限</string>
+</resources>
